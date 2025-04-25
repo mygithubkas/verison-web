@@ -46,4 +46,7 @@ docs/development/Web Specification.md
 
 # typescript
 *.tsbuildinfo
-next-env.d.ts 
+next-env.d.ts
+
+# Docs
+/docs 
