@@ -37,6 +37,9 @@ yarn-error.log*
 # docs
 *.txt
 *.doc
+docs/development/Web Content.md
+docs/development/Web Specification.md
+!docs/development/README.md
 
 # vercel
 .vercel
