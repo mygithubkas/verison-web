@@ -23,9 +23,7 @@ export default function SectionOne() {
               className="space-y-6 max-w-xl"
             >
               <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-slate-900 leading-tight">
-                Where Data Meets
-                <br />
-                Human Potential
+                Welcome
               </h2>
               <p className="text-lg text-slate-600 leading-relaxed">
                 Verison's AI platforms bridge the gap between raw data and human-driven innovation. 
@@ -57,7 +55,7 @@ export default function SectionOne() {
               <div className="absolute inset-0 rounded-2xl overflow-hidden shadow-2xl">
                 <Image
                   src="/images/Jack.png"
-                  alt="Where Data Meets Human Potential"
+                  alt="Welcome"
                   fill
                   className="object-cover object-center"
                   sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 600px"
